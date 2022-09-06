@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sam!
-- 👀 I’m interested in AI!
+- 👀 I’m interested in traveling, biking, Python and AI!
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on AI projects.
+- 💞️ I’m looking to collaborate on AI projects as an intern.
 - 📫 How to reach me:
 - Email : melody.khaksari@gmail.com
 
