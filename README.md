@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam!
-- 👀 I’m interested in Python, AI, traveling, hiking and biking!
+- 👀 I’m interested in Python, AI, ML, traveling, hiking and biking!
 - 🌱 I’m currently a intermediate programmer .
 - 💞️ I love to collaborate on AI projects as an intern.
 - 📫 How to reach me:
